@@ -1422,15 +1422,15 @@ ul
 
 <div class=WordSection1>
 
-<h2>Título: El Método de
-Composición en Simulación de Sistemas</h2>
+<h2>TÃ­tulo: El MÃ©todo de
+ComposiciÃ³n en SimulaciÃ³n de Sistemas</h2>
 <h4>Estudiante: Victor Emanuel Escobar Hurtado</h4>
 
 <table border="1">
     <tbody>
         <tr>
             <td class="negrita">Asignatura </td>
-            <td>Modelación y Simulación de Sistemas</td>
+            <td>ModelaciÃ³n y SimulaciÃ³n de Sistemas</td>
         </tr>
         <tr>
             <td class="negrita">Docente </td>
@@ -1445,44 +1445,44 @@ Composición en Simulación de Sistemas</h2>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Introducción<o:p></o:p></b></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>IntroducciÃ³n<o:p></o:p></b></p>
 
-<p class=MsoNormal>La simulación de sistemas es una herramienta poderosa para
+<p class=MsoNormal>La simulaciÃ³n de sistemas es una herramienta poderosa para
 estudiar y comprender el comportamiento de sistemas complejos. Existen varios
-enfoques y métodos utilizados en la simulación, y uno de los más utilizados es
-el método de composición. Este método se basa en la descomposición del sistema
-en componentes individuales, el modelado y análisis de cada componente por
-separado, y la integración de los modelos individuales para obtener una visión
-completa del sistema en su conjunto. En este informe, se explorará en detalle
-el método de composición, sus características, ventajas, desventajas y su
-aplicación en la simulación de sistemas.</p>
+enfoques y mÃ©todos utilizados en la simulaciÃ³n, y uno de los mÃ¡s utilizados es
+el mÃ©todo de composiciÃ³n. Este mÃ©todo se basa en la descomposiciÃ³n del sistema
+en componentes individuales, el modelado y anÃ¡lisis de cada componente por
+separado, y la integraciÃ³n de los modelos individuales para obtener una visiÃ³n
+completa del sistema en su conjunto. En este informe, se explorarÃ¡ en detalle
+el mÃ©todo de composiciÃ³n, sus caracterÃ­sticas, ventajas, desventajas y su
+aplicaciÃ³n en la simulaciÃ³n de sistemas.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>1. Definición del
-Método de Composición<o:p></o:p></b></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>1. DefiniciÃ³n del
+MÃ©todo de ComposiciÃ³n<o:p></o:p></b></p>
 
-<p class=MsoNormal>El método de composición es una técnica utilizada en la
-simulación de sistemas para descomponer un sistema en componentes individuales
+<p class=MsoNormal>El mÃ©todo de composiciÃ³n es una tÃ©cnica utilizada en la
+simulaciÃ³n de sistemas para descomponer un sistema en componentes individuales
 y modelarlos por separado. Cada componente se modela y analiza de manera
-independiente, considerando sus características y comportamiento específicos.
+independiente, considerando sus caracterÃ­sticas y comportamiento especÃ­ficos.
 Luego, los modelos individuales se integran para obtener un modelo completo del
 sistema, permitiendo analizar su funcionamiento global y obtener resultados
 relevantes.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>2. Características
-del Método de Composición<o:p></o:p></b></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>2. CaracterÃ­sticas
+del MÃ©todo de ComposiciÃ³n<o:p></o:p></b></p>
 
-<p class=MsoNormal>El método de composición presenta varias características
+<p class=MsoNormal>El mÃ©todo de composiciÃ³n presenta varias caracterÃ­sticas
 distintivas:</p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l6 level1 lfo7'><![if !supportLists]><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Descomposición: El sistema se divide en
+</span></span></span><![endif]>DescomposiciÃ³n: El sistema se divide en
 componentes individuales que representan las partes principales del sistema.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l6 level1 lfo7'><![if !supportLists]><span
@@ -1490,48 +1490,48 @@ style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Modelado Individual: Cada componente se modela y
-analiza de manera independiente, utilizando las técnicas y herramientas
+analiza de manera independiente, utilizando las tÃ©cnicas y herramientas
 adecuadas.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l6 level1 lfo7'><![if !supportLists]><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Interacción y Dependencia: Se considera la
-interacción y dependencia entre los componentes al integrar los modelos
+</span></span></span><![endif]>InteracciÃ³n y Dependencia: Se considera la
+interacciÃ³n y dependencia entre los componentes al integrar los modelos
 individuales en el modelo completo del sistema.</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l6 level1 lfo7'><![if !supportLists]><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Visión Completa del Sistema: El método de composición
-proporciona una visión completa y detallada del sistema en su conjunto,
-teniendo en cuenta la contribución de cada componente.</p>
+</span></span></span><![endif]>VisiÃ³n Completa del Sistema: El mÃ©todo de composiciÃ³n
+proporciona una visiÃ³n completa y detallada del sistema en su conjunto,
+teniendo en cuenta la contribuciÃ³n de cada componente.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>3. Ventajas del
-Método de Composición<o:p></o:p></b></p>
+MÃ©todo de ComposiciÃ³n<o:p></o:p></b></p>
 
-<p class=MsoNormal>El método de composición ofrece diversas ventajas en la
-simulación de sistemas:</p>
+<p class=MsoNormal>El mÃ©todo de composiciÃ³n ofrece diversas ventajas en la
+simulaciÃ³n de sistemas:</p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:25.1pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l1 level1 lfo5'><![if !supportLists]><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Mayor Precisión: Al modelar y analizar los
-componentes individualmente, se puede lograr una mayor precisión en la
-simulación del sistema.</p>
+</span></span></span><![endif]>Mayor PrecisiÃ³n: Al modelar y analizar los
+componentes individualmente, se puede lograr una mayor precisiÃ³n en la
+simulaciÃ³n del sistema.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:25.1pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l1 level1 lfo5'><![if !supportLists]><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Reutilización: Los modelos individuales pueden
+</span></span></span><![endif]>ReutilizaciÃ³n: Los modelos individuales pueden
 ser reutilizados en diferentes contextos y sistemas similares, lo que ahorra
 tiempo y esfuerzo en el desarrollo de nuevos modelos.</p>
 
@@ -1540,99 +1540,99 @@ auto;text-indent:-18.0pt;mso-list:l1 level1 lfo5'><![if !supportLists]><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Análisis Detallado: El enfoque en componentes
-individuales permite un análisis más detallado y específico de cada uno de
-ellos, identificando áreas de mejora y puntos críticos.</p>
+</span></span></span><![endif]>AnÃ¡lisis Detallado: El enfoque en componentes
+individuales permite un anÃ¡lisis mÃ¡s detallado y especÃ­fico de cada uno de
+ellos, identificando Ã¡reas de mejora y puntos crÃ­ticos.</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:25.1pt;mso-add-space:auto;
 text-indent:-18.0pt;mso-list:l1 level1 lfo5'><![if !supportLists]><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Experimentación: El método de composición
-facilita la realización de experimentos y análisis &quot;qué pasaría si&quot;,
+</span></span></span><![endif]>ExperimentaciÃ³n: El mÃ©todo de composiciÃ³n
+facilita la realizaciÃ³n de experimentos y anÃ¡lisis &quot;quÃ© pasarÃ­a si&quot;,
 donde se pueden probar diferentes escenarios y configuraciones para evaluar su
 impacto en el sistema.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>4. Desventajas del
-Método de Composición<o:p></o:p></b></p>
+MÃ©todo de ComposiciÃ³n<o:p></o:p></b></p>
 
-<p class=MsoNormal>A pesar de sus ventajas, el método de composición también
-presenta algunas limitaciones y desafíos:</p>
+<p class=MsoNormal>A pesar de sus ventajas, el mÃ©todo de composiciÃ³n tambiÃ©n
+presenta algunas limitaciones y desafÃ­os:</p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l3 level1 lfo1'><![if !supportLists]><span
 style='font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>Complejidad en la Integración: A medida que el
-sistema crece en tamaño y complejidad, la integración de los modelos
-individuales puede volverse más compleja y requerir un esfuerzo adicional.</p>
+</span></span></span><![endif]>Complejidad en la IntegraciÃ³n: A medida que el
+sistema crece en tamaÃ±o y complejidad, la integraciÃ³n de los modelos
+individuales puede volverse mÃ¡s compleja y requerir un esfuerzo adicional.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l3 level1 lfo1'><![if !supportLists]><span
 style='font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>Precisión de los Modelos Individuales: La
-precisión del modelo completo depende de la precisión de los modelos
+</span></span></span><![endif]>PrecisiÃ³n de los Modelos Individuales: La
+precisiÃ³n del modelo completo depende de la precisiÃ³n de los modelos
 individuales utilizados. Si un modelo individual es inexacto</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l3 level1 lfo1'><![if !supportLists]><span
 style='font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>Precisión de los Modelos Individuales: La
-precisión del modelo completo depende de la precisión de los modelos
+</span></span></span><![endif]>PrecisiÃ³n de los Modelos Individuales: La
+precisiÃ³n del modelo completo depende de la precisiÃ³n de los modelos
 individuales utilizados. Si un modelo individual es inexacto o no captura
 correctamente el comportamiento del componente correspondiente, esto puede
-afectar la precisión del modelo completo del sistema.</p>
+afectar la precisiÃ³n del modelo completo del sistema.</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l3 level1 lfo1'><![if !supportLists]><span
 style='font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>Limitaciones en la Representación de la
-Interacción: Aunque el método de composición considera la interacción entre los
-componentes, puede haber limitaciones en la representación de la complejidad de
+</span></span></span><![endif]>Limitaciones en la RepresentaciÃ³n de la
+InteracciÃ³n: Aunque el mÃ©todo de composiciÃ³n considera la interacciÃ³n entre los
+componentes, puede haber limitaciones en la representaciÃ³n de la complejidad de
 las interacciones y dependencias reales en el sistema. Algunas interacciones
-pueden no ser fácilmente modelables o pueden requerir simplificaciones.</p>
+pueden no ser fÃ¡cilmente modelables o pueden requerir simplificaciones.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>5. Aplicación del
-Método de Composición<o:p></o:p></b></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>5. AplicaciÃ³n del
+MÃ©todo de ComposiciÃ³n<o:p></o:p></b></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>El método de composición se aplica en una amplia variedad de
-sistemas y áreas, como:</p>
+<p class=MsoNormal>El mÃ©todo de composiciÃ³n se aplica en una amplia variedad de
+sistemas y Ã¡reas, como:</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l5 level1 lfo3'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Sistemas de producción y manufactura: Para
-modelar y optimizar el flujo de producción, asignación de recursos y
-planificación de la producción.</p>
+Symbol'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Sistemas de producciÃ³n y manufactura: Para
+modelar y optimizar el flujo de producciÃ³n, asignaciÃ³n de recursos y
+planificaciÃ³n de la producciÃ³n.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo3'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Sistemas de transporte y logística: Para simular
-y mejorar el rendimiento de redes de transporte, rutas de distribución y
-logística de almacenes.</p>
+Symbol'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Sistemas de transporte y logÃ­stica: Para simular
+y mejorar el rendimiento de redes de transporte, rutas de distribuciÃ³n y
+logÃ­stica de almacenes.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo3'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Sistemas de atención médica: Para analizar y
-mejorar los procesos de atención médica, planificación de recursos en
-hospitales y optimización de tiempos de espera.</p>
+Symbol'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Sistemas de atenciÃ³n mÃ©dica: Para analizar y
+mejorar los procesos de atenciÃ³n mÃ©dica, planificaciÃ³n de recursos en
+hospitales y optimizaciÃ³n de tiempos de espera.</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l5 level1 lfo3'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Symbol'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Sistemas financieros: Para simular y evaluar el
 riesgo, rendimiento y eficiencia de operaciones financieras y modelos de
-inversión.</p>
+inversiÃ³n.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -1641,34 +1641,34 @@ inversión.</p>
 </dd></dl><hr>
 
 <h3><a name="SECTION00930000000000000000">
-Ejemplos del método de composición</a>
+Ejemplos del mÃ©todo de composiciÃ³n</a>
 </h3>
 
-Sea f(x) la función de densidad de una variable aleatoria X.
-El método de composición consiste en lo siguiente:
+Sea f(x) la funciÃ³n de densidad de una variable aleatoria X.
+El mÃ©todo de composiciÃ³n consiste en lo siguiente:
 <dl compact="">
 <dt>1.
 </dt><dd>Se descompone f como 
 <!-- MATH: $f(x)=\sum_{i=1}^m p_i f_i(x)$ -->
-<img width="128" height="31" align="MIDDLE" border="0" src="./Método de composición_files/img446.gif" alt="$f(x)=\sum_{i=1}^m p_i f_i(x)$">,
+<img width="128" height="31" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img446.gif" alt="$f(x)=\sum_{i=1}^m p_i f_i(x)$">,
 con <i>f</i><sub><i>i</i></sub>
-función de densidad, <img width="42" height="27" align="MIDDLE" border="0" src="./Método de composición_files/img447.gif" alt="$p_i\geq 0$">,
+funciÃ³n de densidad, <img width="42" height="27" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img447.gif" alt="$p_i\geq 0$">,
 
 <!-- MATH: $i=1,\dots, m$ -->
-<img width="78" height="27" align="MIDDLE" border="0" src="./Método de composición_files/img448.gif" alt="$i=1,\dots, m$">,
+<img width="78" height="27" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img448.gif" alt="$i=1,\dots, m$">,
 
 <!-- MATH: $\sum_{i=1}^m p_i=1$ -->
-<img width="78" height="31" align="MIDDLE" border="0" src="./Método de composición_files/img449.gif" alt="$\sum_{i=1}^m p_i=1$">.
+<img width="78" height="31" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img449.gif" alt="$\sum_{i=1}^m p_i=1$">.
 </dd><dt>2.
-</dt><dd>Se elige la i-ésima función con probabilidad <i>p</i><sub><i>i</i></sub> y se genera
-un valor para la función de densidad f<sub>i</sub>.
+</dt><dd>Se elige la i-Ã©sima funciÃ³n con probabilidad <i>p</i><sub><i>i</i></sub> y se genera
+un valor para la funciÃ³n de densidad f<sub>i</sub>.
 </dd></dl>
 
 <b>Ejemplo:  </b>
 <!-- MATH: $f(x)=\frac{5}{12} (1+(x-1)^4), \  0\leq x\leq2.$ -->
-<img width="224" height="32" align="MIDDLE" border="0" src="./Método de composición_files/img450.gif" alt="$f(x)=\frac{5}{12} (1+(x-1)^4), \ 0\leq x\leq2.$">
+<img width="224" height="32" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img450.gif" alt="$f(x)=\frac{5}{12} (1+(x-1)^4), \ 0\leq x\leq2.$">
 <br> <br>
-La función de distribución es 
+La funciÃ³n de distribuciÃ³n es 
 <br><p></p>
 <div align="CENTER">
 <!-- MATH: \begin{displaymath}
@@ -1677,12 +1677,12 @@ F(x)=\frac{1}{12} + \frac {5} {12}
 \end{displaymath} -->
 
 
-<img width="276" height="42" src="./Método de composición_files/img451.gif" alt="\begin{displaymath}F(x)=\frac{1}{12} + \frac {5} {12}
+<img width="276" height="42" src="./MÃ©todo de composiciÃ³n_files/img451.gif" alt="\begin{displaymath}F(x)=\frac{1}{12} + \frac {5} {12}
 \left( x + \frac{(x-1)^5}{5} \right), \ 0\leq x\leq 2,\end{displaymath}">
 </div>
 <br clear="ALL">
 <p></p>
-por lo que no se puede aplicar el método de la transformación 
+por lo que no se puede aplicar el mÃ©todo de la transformaciÃ³n 
 inversa. Sin embargo, si hacemos 
 <br><p></p>
 <div align="CENTER">
@@ -1691,10 +1691,10 @@ p_1=\frac{5}{6},
 \end{displaymath} -->
 
 
-<img width="46" height="36" src="./Método de composición_files/img452.gif" alt="\begin{displaymath}p_1=\frac{5}{6},\end{displaymath}">
-<img width="45" height="36" src="./Método de composición_files/img453.gif" alt="\begin{displaymath}f_1=\frac{1}{2},\end{displaymath}">
-<img width="46" height="36" src="./Método de composición_files/img454.gif" alt="\begin{displaymath}p_2=\frac{1}{6},\end{displaymath}">
-<img width="94" height="36" src="./Método de composición_files/img455.gif" alt="\begin{displaymath}f_2=\frac{5}{2}(x-1)^4,\end{displaymath}">
+<img width="46" height="36" src="./MÃ©todo de composiciÃ³n_files/img452.gif" alt="\begin{displaymath}p_1=\frac{5}{6},\end{displaymath}">
+<img width="45" height="36" src="./MÃ©todo de composiciÃ³n_files/img453.gif" alt="\begin{displaymath}f_1=\frac{1}{2},\end{displaymath}">
+<img width="46" height="36" src="./MÃ©todo de composiciÃ³n_files/img454.gif" alt="\begin{displaymath}p_2=\frac{1}{6},\end{displaymath}">
+<img width="94" height="36" src="./MÃ©todo de composiciÃ³n_files/img455.gif" alt="\begin{displaymath}f_2=\frac{5}{2}(x-1)^4,\end{displaymath}">
 </div>
 <br clear="ALL">
 <p></p>
@@ -1706,11 +1706,11 @@ f=\frac{5}{6} \frac{1}{2} + \frac{1}{6} \frac{5}{2}(x-1)^4
 \end{displaymath} -->
 
 
-<img width="133" height="36" src="./Método de composición_files/img456.gif" alt="\begin{displaymath}f=\frac{5}{6} \frac{1}{2} + \frac{1}{6} \frac{5}{2}(x-1)^4\end{displaymath}">
+<img width="133" height="36" src="./MÃ©todo de composiciÃ³n_files/img456.gif" alt="\begin{displaymath}f=\frac{5}{6} \frac{1}{2} + \frac{1}{6} \frac{5}{2}(x-1)^4\end{displaymath}">
 </div>
 <br clear="ALL">
 <p></p>
-y podemos aplicar el método de composición.
+y podemos aplicar el mÃ©todo de composiciÃ³n.
 <br><p></p>
 <div align="CENTER">
 <!-- MATH: \begin{displaymath}
@@ -1719,7 +1719,7 @@ f_1(x)=\frac{1}{2} \quad \rightarrow \quad F_1(x)=\frac{x}{2}=u
 \end{displaymath} -->
 
 
-<img width="296" height="36" src="./Método de composición_files/img457.gif" alt="\begin{displaymath}f_1(x)=\frac{1}{2} \quad \rightarrow \quad F_1(x)=\frac{x}{2}=u
+<img width="296" height="36" src="./MÃ©todo de composiciÃ³n_files/img457.gif" alt="\begin{displaymath}f_1(x)=\frac{1}{2} \quad \rightarrow \quad F_1(x)=\frac{x}{2}=u
 \quad \rightarrow \quad x=2u,\end{displaymath}">
 </div>
 <br clear="ALL">
@@ -1733,42 +1733,42 @@ x=\sqrt[5] {2u-1}.
 \end{displaymath} -->
 
 
-<img width="441" height="36" src="./Método de composición_files/img458.gif" alt="\begin{displaymath}f_2(x)=\frac{5}{2}(x-1)^4 \quad \rightarrow \quad
+<img width="441" height="36" src="./MÃ©todo de composiciÃ³n_files/img458.gif" alt="\begin{displaymath}f_2(x)=\frac{5}{2}(x-1)^4 \quad \rightarrow \quad
 F_2(x)=\fr...
 ...\frac{1}{2}(x-1)^5= \quad \rightarrow \quad
 x=\sqrt[5] {2u-1}.\end{displaymath}">
 </div>
 <br clear="ALL">
 <p></p>
-El método queda: 
+El mÃ©todo queda: 
 <dl compact="">
 <dt>1.
-</dt><dd>Se genera <i>u</i><sub>1</sub>, <i>u</i><sub>2</sub> con distribución U(0,1).
+</dt><dd>Se genera <i>u</i><sub>1</sub>, <i>u</i><sub>2</sub> con distribuciÃ³n U(0,1).
 </dd><dt>2.
 </dt><dd>Si 
 <!-- MATH: $u_1<\frac{5}{6}$ -->
-<img width="46" height="32" align="MIDDLE" border="0" src="./Método de composición_files/img459.gif" alt="$u_1&lt;\frac{5}{6}$">,
+<img width="46" height="32" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img459.gif" alt="$u_1&lt;\frac{5}{6}$">,
 entonces <i>x</i>=2<i>u</i><sub>2</sub>. En caso contrario, 
 <!-- MATH: $x=1+\sqrt[5]{2u_2-1}$ -->
-<img width="113" height="32" align="MIDDLE" border="0" src="./Método de composición_files/img460.gif" alt="$x=1+\sqrt[5]{2u_2-1}$">.
+<img width="113" height="32" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img460.gif" alt="$x=1+\sqrt[5]{2u_2-1}$">.
 </dd></dl>
 
 <b>Ejemplo:  </b>
 <!-- MATH: $f(x)=\frac{3x^2}{2}, \  -1\leq x \leq 1.$ -->
-<img width="156" height="37" align="MIDDLE" border="0" src="./Método de composición_files/img461.gif" alt="$f(x)=\frac{3x^2}{2}, \ -1\leq x \leq 1.$">
+<img width="156" height="37" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img461.gif" alt="$f(x)=\frac{3x^2}{2}, \ -1\leq x \leq 1.$">
 <br> <br>
 Hacemos 
 <!-- MATH: $p_1=\frac{1}{2}$ -->
-<img width="45" height="32" align="MIDDLE" border="0" src="./Método de composición_files/img462.gif" alt="$p_1=\frac{1}{2}$">,
+<img width="45" height="32" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img462.gif" alt="$p_1=\frac{1}{2}$">,
 
 <!-- MATH: $f_1=3x^2 \chi_{[-1,0]}$ -->
-<img width="96" height="31" align="MIDDLE" border="0" src="./Método de composición_files/img463.gif" alt="$f_1=3x^2 \chi_{[-1,0]}$">,
+<img width="96" height="31" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img463.gif" alt="$f_1=3x^2 \chi_{[-1,0]}$">,
 
 <!-- MATH: $p_2=\frac{1}{2}$ -->
-<img width="45" height="32" align="MIDDLE" border="0" src="./Método de composición_files/img464.gif" alt="$p_2=\frac{1}{2}$">
+<img width="45" height="32" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img464.gif" alt="$p_2=\frac{1}{2}$">
 y 
 <!-- MATH: $f_2=3x^2 \chi_{[0,1]}$ -->
-<img width="88" height="31" align="MIDDLE" border="0" src="./Método de composición_files/img465.gif" alt="$f_2=3x^2 \chi_{[0,1]}$">.
+<img width="88" height="31" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img465.gif" alt="$f_2=3x^2 \chi_{[0,1]}$">.
 <br><p></p>
 <div align="CENTER">
 <!-- MATH: \begin{displaymath}
@@ -1777,7 +1777,7 @@ F_1(x)=\int_{-1}^x {3t^2}dt = \left[t^3 \right]_{-1}^x = x^3+1,
 \end{displaymath} -->
 
 
-<img width="306" height="41" src="./Método de composición_files/img466.gif" alt="\begin{displaymath}F_1(x)=\int_{-1}^x {3t^2}dt = \left[t^3 \right]_{-1}^x = x^3+1,
+<img width="306" height="41" src="./MÃ©todo de composiciÃ³n_files/img466.gif" alt="\begin{displaymath}F_1(x)=\int_{-1}^x {3t^2}dt = \left[t^3 \right]_{-1}^x = x^3+1,
 \ -1\leq x \leq 0.\end{displaymath}">
 </div>
 <br clear="ALL">
@@ -1790,7 +1790,7 @@ x=(u-1)^{\frac{1}{3}}.
 \end{displaymath} -->
 
 
-<img width="196" height="27" src="./Método de composición_files/img467.gif" alt="\begin{displaymath}x^3+1=u \quad \rightarrow \quad
+<img width="196" height="27" src="./MÃ©todo de composiciÃ³n_files/img467.gif" alt="\begin{displaymath}x^3+1=u \quad \rightarrow \quad
 x=(u-1)^{\frac{1}{3}}.\end{displaymath}">
 </div>
 <br clear="ALL">
@@ -1803,7 +1803,7 @@ F_2(x)=\int_0^x {3t^2} dt = \left[ t^3 \right]_0^x = x^3,
 \end{displaymath} -->
 
 
-<img width="261" height="40" src="./Método de composición_files/img468.gif" alt="\begin{displaymath}F_2(x)=\int_0^x {3t^2} dt = \left[ t^3 \right]_0^x = x^3,
+<img width="261" height="40" src="./MÃ©todo de composiciÃ³n_files/img468.gif" alt="\begin{displaymath}F_2(x)=\int_0^x {3t^2} dt = \left[ t^3 \right]_0^x = x^3,
 \ 0\leq x \leq 1.\end{displaymath}">
 </div>
 <br clear="ALL">
@@ -1815,25 +1815,25 @@ x^3=u \quad \rightarrow \quad x=u^{\frac{1}{3}}.
 \end{displaymath} -->
 
 
-<img width="137" height="23" src="./Método de composición_files/img469.gif" alt="\begin{displaymath}x^3=u \quad \rightarrow \quad x=u^{\frac{1}{3}}.\end{displaymath}">
+<img width="137" height="23" src="./MÃ©todo de composiciÃ³n_files/img469.gif" alt="\begin{displaymath}x^3=u \quad \rightarrow \quad x=u^{\frac{1}{3}}.\end{displaymath}">
 </div>
 <br clear="ALL">
 <p></p>
-Método:
+MÃ©todo:
 <dl compact="">
 <dt>1.
-</dt><dd>Se genera <i>u</i><sub>1</sub>, <i>u</i><sub>2</sub> según U(0,1).
+</dt><dd>Se genera <i>u</i><sub>1</sub>, <i>u</i><sub>2</sub> segÃºn U(0,1).
 </dd><dt>2.
 </dt><dd>Si 
 <!-- MATH: $u_1\leq \frac{1}{2}$ -->
-<img width="46" height="32" align="MIDDLE" border="0" src="./Método de composición_files/img470.gif" alt="$u_1\leq \frac{1}{2}$">,
+<img width="46" height="32" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img470.gif" alt="$u_1\leq \frac{1}{2}$">,
 entonces 
 <!-- MATH: $x=(u_2-1)^{\frac{1}{3}}$ -->
-<img width="89" height="35" align="MIDDLE" border="0" src="./Método de composición_files/img471.gif" alt="$x=(u_2-1)^{\frac{1}{3}}$">.
+<img width="89" height="35" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img471.gif" alt="$x=(u_2-1)^{\frac{1}{3}}$">.
 En
 caso contrario, se hace 
 <!-- MATH: $x=u_2^{\frac{1}{3}}$ -->
-<img width="48" height="41" align="MIDDLE" border="0" src="./Método de composición_files/img472.gif" alt="$x=u_2^{\frac{1}{3}}$">
+<img width="48" height="41" align="MIDDLE" border="0" src="./MÃ©todo de composiciÃ³n_files/img472.gif" alt="$x=u_2^{\frac{1}{3}}$">
 
 .
 </dd></dl><hr>
@@ -1841,24 +1841,24 @@ caso contrario, se hace
 
 
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Conclusión</b></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>ConclusiÃ³n</b></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>El método de composición es una valiosa herramienta en la
-simulación de sistemas que permite descomponer un sistema en componentes
+<p class=MsoNormal>El mÃ©todo de composiciÃ³n es una valiosa herramienta en la
+simulaciÃ³n de sistemas que permite descomponer un sistema en componentes
 individuales y modelarlos por separado. Al integrar los modelos individuales, se
-obtiene una visión completa y detallada del sistema, lo que facilita el
-análisis, la optimización y la toma de decisiones. Aunque presenta desafíos y
-limitaciones, su aplicación proporciona beneficios significativos en términos
-de precisión, reutilización de modelos y análisis detallado. El método de
-composición es una técnica ampliamente utilizada en diferentes industrias y
-áreas, y su uso continuo contribuye a mejorar el rendimiento y la eficiencia de
+obtiene una visiÃ³n completa y detallada del sistema, lo que facilita el
+anÃ¡lisis, la optimizaciÃ³n y la toma de decisiones. Aunque presenta desafÃ­os y
+limitaciones, su aplicaciÃ³n proporciona beneficios significativos en tÃ©rminos
+de precisiÃ³n, reutilizaciÃ³n de modelos y anÃ¡lisis detallado. El mÃ©todo de
+composiciÃ³n es una tÃ©cnica ampliamente utilizada en diferentes industrias y
+Ã¡reas, y su uso continuo contribuye a mejorar el rendimiento y la eficiencia de
 los sistemas complejos.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Bibliografía</b></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>BibliografÃ­a</b></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
